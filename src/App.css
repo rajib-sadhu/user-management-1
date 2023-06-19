@@ -1,0 +1,18 @@
+.main-body {
+  clip-path: polygon(0 0, 21% 0, 58% 100%, 0% 100%);
+  background-color: #9ea1ff;
+}
+
+
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
